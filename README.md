@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @Rahat830611
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning code...
-- 💞️ I’m looking to collaborate on programming
+—
 
+👋 Hi, I'm Rahat
+🚀 About Me
+I'm a passionate Web Developer who enjoys building scalable, efficient, and well-designed web applications. My expertise includes:
 
-<!---
-Rahat830611/Rahat830611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->Well designed, Testable Development, efficient code by using best Website And software development
-practices. Creating website layout/user interfaces by using standard HTML/CSS php, java Vue, Js
-,Laravel and ASP practices. Integrating data from various back-end services and databases.
+Frontend: HTML, CSS, JavaScript (Vue.js)
+
+Backend: PHP (Laravel), ASP.NET
+
+Database: MySQL, PostgreSQL
+
+Version Control: Git & GitHub
+
+🌱 Currently Learning
+I'm constantly improving my skills in full-stack development and exploring new technologies to enhance my expertise.
+
+💡 Looking to Collaborate
+I'm open to working on exciting web development projects and collaborating with developers on innovative ideas.
+
+📫 Contact Me
+✉️ Email: rahat830611@gmail.com
+
+🔗 LinkedIn:https://www.linkedin.com/in/rahat830611/
+
+🖥️ Portfolio: #
+
