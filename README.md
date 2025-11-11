@@ -1,121 +1,79 @@
 🚀 About Me
-I'm a Full Stack Web, Software & App Developer passionate about creating modern, scalable, and intelligent digital solutions.
-I enjoy transforming ideas into powerful applications using cutting-edge technologies — from dynamic websites to desktop and mobile software.
 
-
----
+I'm a Full Stack Web, Software, and Mobile App Developer passionate about building modern, scalable, and intelligent digital solutions. I love turning ideas into high-performing applications using cutting-edge technologies — from sleek web platforms to powerful desktop and mobile software.
 
 🧠 Tech Stack & Expertise
-
 💻 Frontend Development
 
-HTML5, CSS3, JavaScript (ES6+), TypeScript
+Languages & Frameworks: HTML5, CSS3, JavaScript (ES6+), TypeScript
 
-Vue.js, React.js, Next.js
+Libraries & Tools: Vue.js, React.js, Next.js
 
-Tailwind CSS, Bootstrap, Sass
+Styling: Tailwind CSS, Bootstrap, Sass
 
-Responsive UI, UX Optimization, Progressive Web Apps (PWA)
-
+Specialties: Responsive Design, UX Optimization, Progressive Web Apps (PWA)
 
 ⚙️ Backend Development
 
-PHP (Laravel, Lumen)
+Languages & Frameworks: PHP (Laravel, Lumen), Node.js (Express.js), ASP.NET (C#), Python (FastAPI, Flask)
 
-Node.js (Express.js)
-
-ASP.NET (C#)
-
-Python (FastAPI, Flask)
-
-RESTful & GraphQL API Development
-
-Authentication (JWT, OAuth2), Middleware, API Security
-
+Core Skills: RESTful & GraphQL API Development, Authentication (JWT, OAuth2), Middleware & API Security
 
 🧩 Software Development
 
-Windows & Desktop Applications (C#, .NET Framework / .NET Core)
+Desktop Applications: C# (.NET Framework / .NET Core), Electron.js
 
-Cross-platform Software using Electron.js
+Systems: Inventory, CRM, ERP, and Real-Time Apps (Socket.io, SignalR)
 
-Data-driven Management Tools (Inventory, CRM, ERP)
-
-Real-time Systems (Socket.io, SignalR)
-
-Reporting Systems (Crystal Report, RDLC)
-
+Reporting: Crystal Reports, RDLC
 
 📱 Mobile App Development
 
-Flutter (Dart)
+Frameworks: Flutter (Dart), React Native
 
-React Native
+Native Tools: Android Studio (Java / Kotlin)
 
-Android Studio (Java / Kotlin)
-
-API Integration & Firebase Services
-
+Expertise: API Integration, Firebase Services
 
 🗄️ Database & Data Engineering
 
-MySQL, PostgreSQL, SQL Server, SQLite
+Databases: MySQL, PostgreSQL, SQL Server, SQLite, MongoDB (NoSQL)
 
-MongoDB (NoSQL)
-
-Database Design, Indexing & Query Optimization
-
-Data Migration & Backup Automation
-
+Specialties: Database Design, Indexing, Query Optimization, Data Migration & Backup Automation
 
 ☁️ Cloud & DevOps
 
-Git & GitHub (Version Control)
+Version Control: Git, GitHub
 
-CI/CD Automation (GitHub Actions, Jenkins)
+Automation: CI/CD (GitHub Actions, Jenkins)
 
-Docker, Containerization Basics
+Cloud Services: AWS, Firebase, Vercel, Netlify, DigitalOcean
 
-AWS, Firebase, Vercel, Netlify, DigitalOcean
-
-cPanel / DirectAdmin, Linux Server Administration
-
+Other Skills: Docker, Linux Server Management, cPanel / DirectAdmin
 
 🧰 Tools & Technologies
 
-VS Code, PhpStorm, Visual Studio, Postman, Figma
-
-NPM, Composer, Yarn
-
-JSON, XML, WebSocket
-
-REST API Testing & Documentation
-
+VS Code, PhpStorm, Visual Studio, Postman, Figma, NPM, Composer, Yarn, JSON, XML, WebSocket, REST API Testing & Documentation
 
 🤖 AI, Automation & Next-Gen Tech
 
-Python Scripting for Automation
+Python Scripting & Automation
 
 Data Scraping (BeautifulSoup, Puppeteer)
 
-Basic AI & ML with Python (scikit-learn, TensorFlow intro)
+Basic AI/ML (scikit-learn, TensorFlow intro)
 
-API-based AI Integration (ChatGPT, Gemini API, etc.)
+AI API Integration (ChatGPT, Gemini API, etc.)
 
-
-🔐 Other Skills
+🔐 Additional Skills
 
 SEO Optimization (Technical + On-Page)
 
 CMS Customization (WordPress, Laravel Nova)
 
-UX Wireframing, System Planning & Documentation
+UX Wireframing, System Architecture, Project Documentation
 
 Project Management (Agile / Scrum)
-
-
-
----
 
 🌱 Currently Exploring
 
@@ -125,33 +83,25 @@ Next.js 14 & Server Components
 
 Advanced DevOps (Docker, Kubernetes)
 
-AI Integration in Web Apps
+AI Integration in Web Applications
 
-Blockchain & Smart Contracts (Solidity Basics)
+Blockchain & Smart Contract Development (Solidity Basics)
 
-
-
----
-
-🤝 Looking to Collaborate On
+🤝 Open to Collaborate On
 
 Modern Web & Software Platforms
 
 AI-Integrated Applications
 
-SaaS / ERP / Automation Tools
+SaaS, ERP, and Automation Tools
 
 Cross-Platform Systems (Web + Mobile + Desktop)
 
-Open Source or Tech Startup Projects
-
-
-
----
+Open Source & Tech Startup Projects
 
 📫 Contact Me
 
-✉️ Email: rahat830611@gmail.com
+📧 Email: rahat830611@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/rahat830611
 
